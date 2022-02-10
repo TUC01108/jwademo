@@ -1,1 +1,1 @@
-This project created by <h1 font color="#800080"> Thomas Winter</h1>
+This project created by <h1 style="color: purple"> Thomas Winter</h1>
