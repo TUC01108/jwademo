@@ -1,1 +1,1 @@
-This project created by <h1 color="blue"> Thomas Winter</h1>
+This project created by <h1 style="color:blue"> Thomas Winter</h1>
